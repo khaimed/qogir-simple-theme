@@ -1,6 +1,9 @@
 # Qogir Simple Theme
 Qogir Simple Theme is a minimalist Linux theme inspired by the Qogir GTK theme.
- 
+
+## Attention 
+- This theme is not mine, the original from [vinceliuice](https://github.com/vinceliuice) link for this theme is [Qogir Theme](https://github.com/vinceliuice/Qogir-theme)
+
 ## Installation
 ### Method 1: User-Specific Installation
  1. Download the Theme:
