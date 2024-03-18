@@ -13,6 +13,7 @@ Qogir Simple Theme is a minimalist Linux theme inspired by the Qogir GTK theme.
  5. Move the Theme:
   - Move the extracted theme folder to the .themes directory in your home folder. If the directory doesn't exist, you can create it.
     
+  `git clone https://github.com/khaimed/qogir-simple-theme`
   `mv Qogir-* ~/.themes/`
   
  4. Apply the Theme:
@@ -25,6 +26,7 @@ Qogir Simple Theme is a minimalist Linux theme inspired by the Qogir GTK theme.
  3. Move the Theme:
    - Move the extracted theme folder to the system-wide themes directory. You might need superuser privileges for this.
 
+     `git clone https://github.com/khaimed/qogir-simple-theme`
      `sudo mv Qogir-* /usr/share/themes/`
      
  4. Apply the Theme:
